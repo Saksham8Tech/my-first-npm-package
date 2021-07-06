@@ -1,0 +1,23 @@
+{
+  "name": "@sakshamb/is-it-wds",
+  "version": "1.0.0",
+  "description": "Is the String WDS or not?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saksham8Tech/my-first-npm-package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Saksham Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saksham8Tech/my-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/Saksham8Tech/my-first-npm-package#readme",
+  "dependencies": {}
+}
